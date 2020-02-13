@@ -16,6 +16,21 @@
                 "score_9": "9.02",
                 "score_10": "8.90",
                 "total_score": "80.3"
+            },
+            {
+                "movie_name": "Knives Out",
+                "movie_image": "2.png",
+                "score_1": "8.67",
+                "score_2": "8.77",
+                "score_3": "7.43",
+                "score_4": "7.55",
+                "score_5": "7.32",
+                "score_6": "7.13",
+                "score_7": "6.99",
+                "score_8": "8.68",
+                "score_9": "8.26",
+                "score_10": "7.94",
+                "total_score": "78.7"
             }
         ]
     }
